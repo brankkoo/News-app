@@ -1,0 +1,15 @@
+#newsli {
+flex-direction: column;
+display: flex;
+
+}
+
+
+.card-img{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#newscrd {
+    border: 1px 1px 1px 1px solid black;
+}
